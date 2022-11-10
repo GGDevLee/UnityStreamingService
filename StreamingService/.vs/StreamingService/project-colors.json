@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "448d02d2-e37b-2b4a-c8cc-235b820e980b": {
+      "ProjectGuid": "448d02d2-e37b-2b4a-c8cc-235b820e980b",
+      "DisplayName": "StreamingService",
+      "ColorIndex": 0
+    },
+    "35ec9b12-5f56-b7e9-dfc7-1249bdb11044": {
+      "ProjectGuid": "35ec9b12-5f56-b7e9-dfc7-1249bdb11044",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
