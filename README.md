@@ -17,7 +17,7 @@
 ```json
 {
   "dependencies": {
-	"com.leeframework.streaming":"https://e.coding.net/ggdevlee/leeframework/StreamingService.git#1.0.6"
+	"com.leeframework.streaming":"https://e.coding.net/ggdevlee/leeframework/StreamingService.git#1.0.7"
   }
 }
 ```
